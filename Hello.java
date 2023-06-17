@@ -1,3 +1,6 @@
-class Hello{
+class Hell{
+    public static void main(String[] args){
+
+    }
 
 }
